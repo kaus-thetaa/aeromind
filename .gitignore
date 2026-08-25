@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+data/aviation_kb/*
+!data/aviation_kb/.gitkeep
+
+models/*
+!models/.gitkeep
+
+replays/*
+!replays/.gitkeep
