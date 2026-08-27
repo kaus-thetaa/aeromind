@@ -22,7 +22,7 @@ class AircraftConfig:
     aspect_ratio: float = 4.32
 
     mass_kg: float = 0.180
-    stall_speed_estimate_mps: float = 6.0
+    stall_speed_estimate_mps: float = 3.7
 
     battery_cells: int = 3
     motor_kv: int = 1800
